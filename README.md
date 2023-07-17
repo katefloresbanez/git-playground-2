@@ -1,2 +1,1 @@
-Hello Something Batch 29
-Hello Batch 29
+File from non clone git repo
